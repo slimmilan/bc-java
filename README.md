@@ -1,6 +1,7 @@
 # The Bouncy Castle Crypto Package For Java
 
 [![Build Status](https://travis-ci.org/bcgit/bc-java.svg?branch=master)](https://travis-ci.org/bcgit/bc-java)
+[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2Fslimmilan%2Fbc-java.svg?type=shield)](https://app.fossa.com/projects/git%2Bgithub.com%2Fslimmilan%2Fbc-java?ref=badge_shield)
 
 The Bouncy Castle Crypto package is a Java implementation of cryptographic algorithms, it was developed by the Legion of the Bouncy Castle, a registered Australian Charity, with a little help! The Legion, and the latest goings on with this package, can be found at [https://www.bouncycastle.org](https://www.bouncycastle.org).
 
@@ -125,3 +126,7 @@ For bug reporting/requests you can report issues here on github, or via feedback
 ## Finally
 
 Enjoy!
+
+
+## License
+[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2Fslimmilan%2Fbc-java.svg?type=large)](https://app.fossa.com/projects/git%2Bgithub.com%2Fslimmilan%2Fbc-java?ref=badge_large)
